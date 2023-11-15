@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=student
+comment0.text=\n\ Write\ a\ description\ of\ class\ student\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=_name_\ _lname_\ _grade_\ _clubs_
+comment1.target=student(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ifelse
+comment0.text=\n\ Write\ a\ description\ of\ class\ ifelse\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=time
+comment1.target=void\ worldrecord(int)
+comment2.params=number
+comment2.target=void\ posneg(int)
+comment3.params=num\ denum
+comment3.target=void\ fraction(int,\ int)
+comment4.params=mass
+comment4.target=void\ newton(double)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

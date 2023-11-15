@@ -1,0 +1,23 @@
+import java.util.Scanner;
+public class input
+{
+    public static void main(String[] args)
+    {
+        
+        Scanner scanner = new Scanner(System.in);
+        //read a string
+        System.out.println("What is your name?");
+        String name = scanner.nextLine();
+        System.out.println("Hello " + name);
+        System.out.println("Give me a number "+ name);
+        int num1 = scanner.nextInt();
+        System.out.println("GREAT!!, Give me one more number");
+        int num2 = scanner.nextInt();
+        System.out.println("Your numbers were " +num1+" and "+num2);
+        
+        int num3= num1+num2;
+        System.out.println("The total of those numbers is "+num3);
+        
+        
+    }
+}

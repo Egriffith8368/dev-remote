@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=superMarket
+comment1.params=_cost
+comment1.target=superMarket(double)
+comment2.params=
+comment2.target=void\ calc()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

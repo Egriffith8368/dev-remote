@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=bank
+comment0.text=\n\ Write\ a\ description\ of\ class\ bank\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=_owner
+comment1.target=bank(java.lang.String)
+comment2.params=dep
+comment2.target=void\ deposit(double)
+comment3.params=draw
+comment3.target=void\ withdraw(double)
+comment4.params=
+comment4.target=void\ balence()
+numComments=5

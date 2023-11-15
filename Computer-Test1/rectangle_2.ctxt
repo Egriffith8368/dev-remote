@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=rectangle_2
+comment0.text=\n\ Write\ a\ description\ of\ class\ rectangle_2\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=_lengh\ _width
+comment1.target=rectangle_2(double,\ double)
+comment2.params=
+comment2.target=void\ are()
+comment3.params=
+comment3.target=void\ per()
+numComments=4

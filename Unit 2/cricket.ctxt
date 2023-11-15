@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=cricket
+comment0.text=\n\ Write\ a\ description\ of\ class\ cricket\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=_name
+comment1.target=cricket(java.lang.String)
+comment2.params=_runs\ _balls
+comment2.target=void\ match(int,\ int)
+comment3.params=
+comment3.target=void\ average_runs()
+comment4.params=
+comment4.target=void\ average_balls()
+comment5.params=
+comment5.target=void\ _return_()
+numComments=6

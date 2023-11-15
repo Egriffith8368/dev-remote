@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=gallons
+comment0.text=\n\ Write\ a\ description\ of\ class\ gallons\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=_legnth\ _width
+comment1.target=gallons(double,\ double)
+comment2.params=
+comment2.target=void\ volu()
+comment3.params=
+comment3.target=void\ gal()
+comment4.params=
+comment4.target=void\ time()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

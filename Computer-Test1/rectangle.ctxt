@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=rectangle
+comment0.text=\n\ Write\ a\ description\ of\ class\ rectangle\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=_height_\ _width_
+comment1.target=rectangle(double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
